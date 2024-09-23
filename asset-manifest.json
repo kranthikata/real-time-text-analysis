@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-time-text-analysis/static/css/main.e0e05875.css",
+    "main.js": "/real-time-text-analysis/static/js/main.aeceed1d.js",
+    "index.html": "/real-time-text-analysis/index.html",
+    "main.e0e05875.css.map": "/real-time-text-analysis/static/css/main.e0e05875.css.map",
+    "main.aeceed1d.js.map": "/real-time-text-analysis/static/js/main.aeceed1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e05875.css",
+    "static/js/main.aeceed1d.js"
+  ]
+}
